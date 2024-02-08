@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kirthickprince@gmail.com**
 
-- ⚡ Fun fact **Curious Leaner**
+- ⚡ Fun fact **Curious Learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
