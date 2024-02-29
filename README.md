@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **IT Sector Fields**
 
-- 💬 Ask me about **HTML,CSS,JS**
+- 💬 Ask me about **C,HTML,CSS,JS**
 
 - 📫 How to reach me **kirthickprince@gmail.com**
 
