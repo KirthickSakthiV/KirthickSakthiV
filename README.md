@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kirthick Sakthi V</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirthicksakthiv" alt="kirthicksakthiv" /></a> </p>
 
 <img  height="400" width="600" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
