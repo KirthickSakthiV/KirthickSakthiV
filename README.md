@@ -1,3 +1,7 @@
+<h1 align="center">
+       <a href="https://git.io/typing-svg"><img
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=28&pause=1000&center=true&vCenter=true&random=false&lines=HI There;I'am Kirthick Sakthi V"
+        alt="Typing SVG" /></a>
 ![MasterHea](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Kirthick Sakthi V</h1>
 <h3 align="center">A passionate frontend developer</h3>
