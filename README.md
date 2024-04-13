@@ -1,7 +1,7 @@
 
 ![MasterHea](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Kirthick Sakthi V</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Frontend developer</h3>
 
 <img  height="400" width="600" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
